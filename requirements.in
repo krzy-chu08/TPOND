@@ -3,3 +3,6 @@ numpy
 matplotlib
 seaborn
 dash
+pylint
+pip-tools
+venv
