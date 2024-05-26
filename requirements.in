@@ -6,3 +6,5 @@ dash
 pylint
 pip-tools
 venv
+dash
+
